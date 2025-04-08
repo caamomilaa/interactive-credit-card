@@ -22,3 +22,12 @@ body {
   margin: 0;
   font-family: sans-serif;
 }
+.hide{
+  display: none;
+}
+.error{
+  background-color: red;
+}
+.form-input-error{
+  background-color: red;
+}
